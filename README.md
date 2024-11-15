@@ -4,6 +4,12 @@
 
 ---
 
+# Backend Arquitecture
+
+<img src='doc/images/Back-end architecture.png' alt='Cloud Arquitecture' />
+
+---
+
 ## 🚀 Características principales
 
 - **Gestión de transacciones:** Registra ingresos y gastos con categorías personalizadas.
