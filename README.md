@@ -34,6 +34,17 @@
   - Autenticación con ASP.NET Identity
   - Logging y monitoreo con Serilog
   - Inyección de dependencias (DI) nativa de .NET Core
+ 
+- **Tools:**
+  - Visual Studio 2022 / Visual Studio Code
+  - Azure Account
+  - Azure Functions Core Tools V4.0
+  - Cosmos Db Emulator
+  - Azure Storage Emulator
+  - Azure Storage Explorer
+  - Postman
+  - Mac OS & Windows
+  - .NET 6.0 / .NET 8.0
 
 ---
 
