@@ -18,13 +18,17 @@
 ## 🛠️ Tecnologías utilizadas
 
 - **Backend:**
-  - ASP.NET Core
-  - Entity Framework Core
+  - ASP.NET Core 9
+  - Entity Framework Core 9
   - API RESTful
-  - SQL Server para el almacenamiento de datos
+  - CosmosDb para el almacenamiento de datos
+  - Azure Functions
+  - AD B2C
+  - Api Gateway
+  - 
 
 - **Frontend:**
-  - Razor Pages / Blazor (o especificar si se usa un framework como Angular o React integrado con .NET)
+  - Maui.NET / Blazor / Electron
 
 - **Otros:**
   - Autenticación con ASP.NET Identity
@@ -37,7 +41,7 @@
 
 - Notificaciones automáticas para alertas de presupuesto.
 - Integración con APIs de bancos para sincronización de cuentas.
-- Aplicación móvil (Xamarin / MAUI) para seguimiento sobre la marcha.
+- Aplicación móvil (MAUI) para seguimiento sobre la marcha.
 - Exportación de reportes financieros en PDF o Excel.
 
 ---
