@@ -60,3 +60,16 @@
 4. Inicia el proyecto:
     dotnet run
 
+## 🤝 Contribuciones
+
+¡Las contribuciones son bienvenidas! Por favor, revisa el archivo CONTRIBUTING.md para obtener más detalles.
+
+## 🛡️ Licencia
+
+Este proyecto está licenciado bajo la licencia MIT. Consulta el archivo LICENSE para más información.
+
+## 📧 Contacto
+
+Si tienes dudas o sugerencias, no dudes en contactarme a través de https://www.linkedin.com/in/juniorfelixgb/ o abre un issue.
+
+¡Gracias por contribuir!
